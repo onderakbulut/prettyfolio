@@ -1,0 +1,22 @@
+{
+    "slider": [
+        {
+            "id": 1,
+            "image": "hero/hero-bg.jpg",
+            "title": "Lorem ipsum dolor",
+            "desc": "Consectetur adipiscing elit."
+        },
+        {
+            "id": 2,
+            "image": "hero/hero-bg-2.jpg",
+            "title": "Lorem ipsum dolor",
+            "desc": "Consectetur adipiscing elit."
+        },
+        {
+            "id": 3,
+            "image": "hero/hero-bg-3.jpg",
+            "title": "Lorem ipsum dolor",
+            "desc": "Consectetur adipiscing elit."
+        }
+    ]
+}
