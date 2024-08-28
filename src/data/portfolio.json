@@ -1,0 +1,46 @@
+{
+    "portfolio": [
+        {
+            "id": 1,
+            "image": "portfolio/portfolio-img1.jpg",
+            "title": "Project One",
+            "slug": "project-one",
+            "categories": ["graphic", "photoshop"]
+        },
+        {
+            "id": 2,
+            "image": "portfolio/portfolio-img2.jpg",
+            "title": "Project Two",
+            "slug": "project-two",
+            "categories": ["photoshop", "web"]
+        },
+        {
+            "id": 3,
+            "image": "portfolio/portfolio-img3.jpg",
+            "title": "Project Three",
+            "slug": "project-three",
+            "categories": ["brand"]
+        },
+        {
+            "id": 4,
+            "image": "portfolio/portfolio-img4.jpg",
+            "title": "Project Four",
+            "slug": "project-four",
+            "categories": ["web", "brand"]
+        },
+        {
+            "id": 5,
+            "image": "portfolio/portfolio-img5.jpg",
+            "title": "Project Five",
+            "slug": "project-five",
+            "categories": ["brand", "graphic"]
+        },
+        {
+            "id": 6,
+            "image": "portfolio/portfolio-img6.jpg",
+            "title": "Project Six",
+            "slug": "project-six",
+            "categories": ["graphic"]
+        }
+    ]
+}
