@@ -4,6 +4,7 @@ import 'swiper/css/pagination';
 import "/sass/bootstrap.scss";
 import 'animate.css';
 import Header from '@/components/header/header';
+import Footer from '@/components/footer/footer';
 
 const source = Source_Sans_3({ subsets: ["latin"] });
 
@@ -19,6 +20,7 @@ export default function RootLayout({ children }) {
       <body className={source.className}>
         <Header />
         {children}
+        <Footer />
       </body>
     </html>
   );
